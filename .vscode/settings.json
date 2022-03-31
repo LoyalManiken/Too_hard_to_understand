@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.defaultFormatter": "VisualStudioExptTeam.vscodeintellicode"
+}

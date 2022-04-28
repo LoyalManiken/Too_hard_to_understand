@@ -3,3 +3,4 @@
     { "key": "Win+shift+l",        "command": "actions.find" },
     { "key": "alt+shift+l",        "command": "workbench.action.navigateBack" }
 ]
+//2
